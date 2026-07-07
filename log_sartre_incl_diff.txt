@@ -1,0 +1,602 @@
+Last login: Tue Jul  7 17:13:47 on ttys010
+arjun@Arjuns-MacBook-Pro-5 ~ % cd tools/InDIsSartre/examples/build 
+arjun@Arjuns-MacBook-Pro-5 build % ./sartreInclusiveDiffractionMain ../sartreInclusiveDiffractionRuncard.txt 
+Pythia8 initialized (8314)
+/========================================================================\
+|                                                                        |
+|  Sartre, Version 2.10                                                  |
+|                                                                        |
+|  An event generator for inclusive diffraction                          |
+|  in ep and eA collisions based on the dipole model.                    |
+|                                                                        |
+|  Copyright (C) 2010-2024 Tobias Toll and Thomas Ullrich                |
+|                                                                        |
+|  This program is free software: you can redistribute it and/or modify  |
+|  it under the terms of the GNU General Public License as published by  |
+|  the Free Software Foundation, either version 3 of the License, or     |
+|  any later version.                                                    |
+|                                                                        |
+|  Code compiled on Jul  6 2026 17:11:04                                 |
+|  Run started at Tue Jul  7 17:14:46 2026                               |
+\========================================================================/
+Runcard is '../sartreInclusiveDiffractionRuncard.txt'.
+Sartre is running in inclusive diffraction mode
+Hadron beam species: Ag(II) (107)
+Hadron beam:   0	0	114.996	115	(0.93827)
+Electron beam: 0	0	-9	9	(0.000510999)
+Dipole model: bSat
+Dipole model parameter set: STU
+Process is e + Ag(II) -> e' + Ag(II)' + X
+Random generator seed: 2011987
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q0_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q3_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q2_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q3_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q2_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q1_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q3_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q2_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q1_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q0_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q0_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q1_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q3_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q2_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q2_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q3_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q3_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q0_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q0_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q1_NN_LQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q1_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q1_NN_TQQ.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107_lowBeta_bSat_STU_q2_NN_TQQG.root'.
+Loaded table from file '/Users/arjun/tools/InDIsSartre/build/sartre/tables/107/bSat/X/MSENN/inclusive_A107__bSat_STU_q0_NN_TQQ.root'.
+kineBetamin = 0.000265705
+Warning, requested lower limit of beta (0) is smaller than limit given by lookup tables and/or kinematic range (0.01). Limit has no effect.
+Warning, requested upper limit of Q2 (1) exceeds limit given by lookup tables and/or kinematic range (0.99). Limit has no effect.
+Sartre was thrown into the world, restricted by kinematics and user inputs alike:
+    beta=[0.01, 0.99]
+      Q2=[1.1, 100]
+       W=[3.23591, 64.3337]
+       z=[0.001, 0.999]
+     MX2=[8.15713, 4137.95]
+       y=[0.0162816, 1]
+Finding mode of pdf:
+	location: beta=0.118827, Q2=1.1, W=64.3337, z=0.5; value: 0.000253601
+QQ: beta=0.608985 Q2=1.1 W=64.3337 z=0.5
+QQ: beta=0.608985 Q2=1.61606 W=64.3337 z=0.5
+QQ: beta=0.608985 Q2=1.61606 W=54.6352 z=0.5
+QQ: beta=0.608985 Q2=1.61606 W=54.6352 z=0.493525
+QQ: beta=0.836364 Q2=1.93177 W=49.4951 z=0.490522
+QQ: beta=0.746317 Q2=1.93177 W=49.4951 z=0.490522
+QQ: beta=0.746317 Q2=4.58341 W=49.4951 z=0.490522
+QQ: beta=0.746317 Q2=4.58341 W=51.214 z=0.490522
+QQ: beta=0.746317 Q2=4.58341 W=51.214 z=0.434436
+QQ: beta=0.582199 Q2=3.15561 W=54.9488 z=0.451584
+QQ: beta=0.416229 Q2=3.15561 W=54.9488 z=0.451584
+QQ: beta=0.416229 Q2=2.79946 W=54.9488 z=0.451584
+QQ: beta=0.416229 Q2=2.79946 W=15.6867 z=0.451584
+QQ: beta=0.416229 Q2=2.79946 W=15.6867 z=0.088666
+QQ: beta=0.328678 Q2=2.12641 W=37.3101 z=0.209756
+QQ: beta=0.910301 Q2=2.12641 W=37.3101 z=0.209756
+QQ: beta=0.910301 Q2=5.79606 W=37.3101 z=0.209756
+QQ: beta=0.910301 Q2=5.79606 W=35.0855 z=0.209756
+QQ: beta=0.910301 Q2=5.79606 W=35.0855 z=0.113692
+QQ: beta=0.836213 Q2=4.96104 W=38.771 z=0.149853
+QQ: beta=0.905363 Q2=4.96104 W=38.771 z=0.149853
+QQ: beta=0.905363 Q2=3.22043 W=38.771 z=0.149853
+QQ: beta=0.905363 Q2=3.22043 W=10.738 z=0.149853
+QQ: beta=0.905363 Q2=3.22043 W=10.738 z=0.943308
+QQ: beta=0.823715 Q2=2.88061 W=23.0863 z=0.89729
+QQ: beta=0.326487 Q2=2.88061 W=23.0863 z=0.89729
+QQ: beta=0.326487 Q2=1.14538 W=23.0863 z=0.89729
+QQ: beta=0.326487 Q2=1.14538 W=28.4838 z=0.89729
+QQ: beta=0.326487 Q2=1.14538 W=28.4838 z=0.548956
+QQ: beta=0.354412 Q2=1.15163 W=19.075 z=0.55554
+QQ: beta=0.775319 Q2=1.15163 W=19.075 z=0.55554
+QQ: beta=0.775319 Q2=5.23849 W=19.075 z=0.55554
+QQ: beta=0.775319 Q2=5.23849 W=21.0555 z=0.55554
+QQ: beta=0.775319 Q2=5.23849 W=21.0555 z=0.574369
+QQ: beta=0.81098 Q2=5.70197 W=15.5754 z=0.578408
+QQ: beta=0.623369 Q2=5.70197 W=15.5754 z=0.578408
+QQ: beta=0.623369 Q2=1.83647 W=15.5754 z=0.578408
+QQ: beta=0.623369 Q2=1.83647 W=52.8507 z=0.578408
+QQ: beta=0.623369 Q2=1.83647 W=52.8507 z=0.246419
+QQ: beta=0.683777 Q2=1.9527 W=51.3038 z=0.216058
+QQ: beta=0.151422 Q2=1.9527 W=51.3038 z=0.216058
+QQ: beta=0.151422 Q2=1.71619 W=51.3038 z=0.216058
+QQ: beta=0.151422 Q2=1.71619 W=51.2717 z=0.216058
+QQ: beta=0.151422 Q2=1.71619 W=51.2717 z=0.986213
+QQ: beta=0.147919 Q2=1.63608 W=52.8307 z=0.933955
+QQ: beta=0.146661 Q2=1.63608 W=52.8307 z=0.933955
+QQ: beta=0.146661 Q2=1.30675 W=52.8307 z=0.933955
+QQ: beta=0.146661 Q2=1.30675 W=60.4424 z=0.933955
+QQ: beta=0.146661 Q2=1.30675 W=60.4424 z=0.175002
+QQ: beta=0.157501 Q2=1.39741 W=58.8573 z=0.0484248
+QQ: beta=0.527116 Q2=1.39741 W=58.8573 z=0.0484248
+QQ: beta=0.527116 Q2=10.0073 W=58.8573 z=0.0484248
+QQ: beta=0.527116 Q2=10.0073 W=39.5145 z=0.0484248
+QQ: beta=0.527116 Q2=10.0073 W=39.5145 z=0.164936
+QQ: beta=0.700068 Q2=25.4987 W=21.6701 z=0.0230024
+QQ: beta=0.915182 Q2=25.4987 W=21.6701 z=0.0230024
+QQ: beta=0.915182 Q2=36.1462 W=21.6701 z=0.0230024
+QQ: beta=0.915182 Q2=36.1462 W=35.0267 z=0.0230024
+QQ: beta=0.915182 Q2=36.1462 W=35.0267 z=0.00914286
+QQ: beta=0.739577 Q2=16.7348 W=43.2318 z=0.117383
+QQ: beta=0.743239 Q2=16.7348 W=43.2318 z=0.117383
+QQ: beta=0.743239 Q2=2.77921 W=43.2318 z=0.117383
+QQ: beta=0.743239 Q2=2.77921 W=63.6166 z=0.117383
+QQ: beta=0.743239 Q2=2.77921 W=63.6166 z=0.0837483
+QQ: beta=0.521525 Q2=1.99983 W=63.8722 z=0.23155
+QQ: beta=0.4739 Q2=1.99983 W=63.8722 z=0.23155
+QQ: beta=0.4739 Q2=1.27771 W=63.8722 z=0.23155
+QQ: beta=0.4739 Q2=1.27771 W=25.117 z=0.23155
+QQ: beta=0.4739 Q2=1.27771 W=25.117 z=0.339583
+QQ: beta=0.429236 Q2=1.25387 W=32.7433 z=0.359762
+QQ: beta=0.971016 Q2=1.25387 W=32.7433 z=0.359762
+QQ: beta=0.971016 Q2=1.32774 W=32.7433 z=0.359762
+QQ: beta=0.971016 Q2=1.32774 W=47.9792 z=0.359762
+QQ: beta=0.971016 Q2=1.32774 W=47.9792 z=0.524354
+QQ: beta=0.945213 Q2=1.3202 W=48.5554 z=0.523617
+QQ: beta=0.987503 Q2=1.3202 W=48.5554 z=0.523617
+QQ: beta=0.987503 Q2=1.42678 W=48.5554 z=0.523617
+QQ: beta=0.987503 Q2=1.42678 W=31.6675 z=0.523617
+QQ: beta=0.987503 Q2=1.42678 W=31.6675 z=0.711589
+QQ: beta=0.847429 Q2=1.36817 W=38.8395 z=0.67747
+QQ: beta=0.938911 Q2=1.36817 W=38.8395 z=0.67747
+QQ: beta=0.938911 Q2=1.17311 W=38.8395 z=0.67747
+QQ: beta=0.938911 Q2=1.17311 W=37.239 z=0.67747
+QQ: beta=0.938911 Q2=1.17311 W=37.239 z=0.766073
+QQ: beta=0.9135 Q2=1.17077 W=38.3669 z=0.757829
+QQ: beta=0.408964 Q2=1.17077 W=38.3669 z=0.757829
+QQ: beta=0.408964 Q2=1.18864 W=38.3669 z=0.757829
+QQ: beta=0.408964 Q2=1.18864 W=32.8149 z=0.757829
+QQ: beta=0.408964 Q2=1.18864 W=32.8149 z=0.903222
+QQ: beta=0.426535 Q2=1.19423 W=29.856 z=0.927641
+QQ: beta=0.438519 Q2=1.19423 W=29.856 z=0.927641
+QQ: beta=0.438519 Q2=2.63048 W=29.856 z=0.927641
+QQ: beta=0.438519 Q2=2.63048 W=46.976 z=0.927641
+QQ: beta=0.438519 Q2=2.63048 W=46.976 z=0.984689
+QQ: beta=0.439388 Q2=2.63673 W=46.92 z=0.986008
+QQ: beta=0.272779 Q2=2.63673 W=46.92 z=0.986008
+QQ: beta=0.272779 Q2=3.43651 W=46.92 z=0.986008
+QQ: beta=0.272779 Q2=3.43651 W=38.7565 z=0.986008
+QQ: beta=0.272779 Q2=3.43651 W=38.7565 z=0.971072
+QQ: beta=0.27024 Q2=3.37255 W=39.3135 z=0.963303
+ some error before this 
+QQG: beta=0.01 Q2=1.1 W=64.3337 z=0.0841557
+QQG: beta=0.01 Q2=1.92463 W=64.3337 z=0.0841557
+QQG: beta=0.01 Q2=1.92463 W=38.9459 z=0.0841557
+QQG: beta=0.01 Q2=1.92463 W=38.9459 z=0.43384
+QQG: beta=0.01 Q2=1.34686 W=56.479 z=0.210712
+QQG: beta=0.0285742 Q2=1.34686 W=56.479 z=0.210712
+QQG: beta=0.0285742 Q2=17.2868 W=56.479 z=0.210712
+QQG: beta=0.0285742 Q2=17.2868 W=43.3559 z=0.210712
+QQG: beta=0.0285742 Q2=17.2868 W=43.3559 z=0.235756
+QQG: beta=0.0130377 Q2=1.72601 W=61.3952 z=0.108949
+QQG: beta=0.0150022 Q2=1.72601 W=61.3952 z=0.108949
+QQG: beta=0.0150022 Q2=2.62737 W=61.3952 z=0.108949
+QQG: beta=0.0150022 Q2=2.62737 W=39.3029 z=0.108949
+QQG: beta=0.0150022 Q2=2.62737 W=39.3029 z=0.143867
+QQG: beta=0.016272 Q2=3.27729 W=29.7685 z=0.159025
+QQG: beta=0.0320096 Q2=3.27729 W=29.7685 z=0.159025
+QQG: beta=0.0320096 Q2=4.3638 W=29.7685 z=0.159025
+QQG: beta=0.0320096 Q2=4.3638 W=54.3345 z=0.159025
+QQG: beta=0.0320096 Q2=4.3638 W=54.3345 z=0.182607
+QQG: beta=0.0346757 Q2=5.15656 W=52.9953 z=0.194533
+QQG: beta=0.0691018 Q2=5.15656 W=52.9953 z=0.194533
+QQG: beta=0.0691018 Q2=5.50581 W=52.9953 z=0.194533
+QQG: beta=0.0691018 Q2=5.50581 W=22.1587 z=0.194533
+QQG: beta=0.0691018 Q2=5.50581 W=22.1587 z=0.298458
+QQG: beta=0.0654609 Q2=4.98579 W=26.7531 z=0.285256
+QQG: beta=0.0615715 Q2=4.98579 W=26.7531 z=0.285256
+QQG: beta=0.0615715 Q2=3.25233 W=26.7531 z=0.285256
+QQG: beta=0.0615715 Q2=3.25233 W=30.1567 z=0.285256
+QQG: beta=0.0615715 Q2=3.25233 W=30.1567 z=0.370048
+QQG: beta=0.060048 Q2=3.14983 W=31.6989 z=0.361603
+QQG: beta=0.0562417 Q2=3.14983 W=31.6989 z=0.361603
+QQG: beta=0.0562417 Q2=1.66655 W=31.6989 z=0.361603
+QQG: beta=0.0562417 Q2=1.66655 W=32.6425 z=0.361603
+QQG: beta=0.0562417 Q2=1.66655 W=32.6425 z=0.370359
+QQG: beta=0.0595511 Q2=1.71685 W=29.0789 z=0.390842
+QQG: beta=0.0261886 Q2=1.71685 W=29.0789 z=0.390842
+QQG: beta=0.0261886 Q2=2.01221 W=29.0789 z=0.390842
+QQG: beta=0.0261886 Q2=2.01221 W=35.8429 z=0.390842
+QQG: beta=0.0261886 Q2=2.01221 W=35.8429 z=0.239813
+QQG: beta=0.0286414 Q2=2.20502 W=29.1937 z=0.263397
+QQG: beta=0.0122312 Q2=2.20502 W=29.1937 z=0.263397
+QQG: beta=0.0122312 Q2=1.35725 W=29.1937 z=0.263397
+QQG: beta=0.0122312 Q2=1.35725 W=44.0645 z=0.263397
+QQG: beta=0.0122312 Q2=1.35725 W=44.0645 z=0.411729
+QQG: beta=0.0132561 Q2=1.49481 W=30.5346 z=0.562208
+QQG: beta=0.085728 Q2=1.49481 W=30.5346 z=0.562208
+QQG: beta=0.085728 Q2=5.61108 W=30.5346 z=0.562208
+QQG: beta=0.085728 Q2=5.61108 W=32.6016 z=0.562208
+QQG: beta=0.085728 Q2=5.61108 W=32.6016 z=0.602753
+QQG: beta=0.0839295 Q2=5.39809 W=33.7034 z=0.590436
+QQG: beta=0.143405 Q2=5.39809 W=33.7034 z=0.590436
+QQG: beta=0.143405 Q2=10.0146 W=33.7034 z=0.590436
+QQG: beta=0.143405 Q2=10.0146 W=22.4099 z=0.590436
+QQG: beta=0.143405 Q2=10.0146 W=22.4099 z=0.497174
+QQG: beta=0.119842 Q2=6.77964 W=33.831 z=0.424224
+QQG: beta=0.187035 Q2=6.77964 W=33.831 z=0.424224
+QQG: beta=0.187035 Q2=8.88773 W=33.831 z=0.424224
+QQG: beta=0.187035 Q2=8.88773 W=13.3173 z=0.424224
+QQG: beta=0.187035 Q2=8.88773 W=13.3173 z=0.389295
+QQG: beta=0.178906 Q2=8.0747 W=18.9538 z=0.375284
+QQG: beta=0.145505 Q2=8.0747 W=18.9538 z=0.375284
+QQG: beta=0.145505 Q2=5.63209 W=18.9538 z=0.375284
+QQG: beta=0.145505 Q2=5.63209 W=39.0125 z=0.375284
+QQG: beta=0.145505 Q2=5.63209 W=39.0125 z=0.403081
+QQG: beta=0.156462 Q2=6.42727 W=36.1989 z=0.428872
+QQG: beta=0.0894226 Q2=6.42727 W=36.1989 z=0.428872
+QQG: beta=0.0894226 Q2=8.45693 W=36.1989 z=0.428872
+QQG: beta=0.0894226 Q2=8.45693 W=20.3203 z=0.428872
+QQG: beta=0.0894226 Q2=8.45693 W=20.3203 z=0.29523
+QQG: beta=0.0720266 Q2=5.40993 W=35.0571 z=0.248998
+QQG: beta=0.0336107 Q2=5.40993 W=35.0571 z=0.248998
+QQG: beta=0.0336107 Q2=1.65726 W=35.0571 z=0.248998
+QQG: beta=0.0336107 Q2=1.65726 W=57.1083 z=0.248998
+QQG: beta=0.0336107 Q2=1.65726 W=57.1083 z=0.353426
+QQG: beta=0.0714746 Q2=3.19774 W=43.0602 z=0.785248
+QQG: beta=0.0206284 Q2=3.19774 W=43.0602 z=0.785248
+QQG: beta=0.0206284 Q2=6.00295 W=43.0602 z=0.785248
+QQG: beta=0.0206284 Q2=6.00295 W=47.5368 z=0.785248
+QQG: beta=0.0206284 Q2=6.00295 W=47.5368 z=0.652439
+QQG: beta=0.0192222 Q2=4.79578 W=50.0835 z=0.577251
+QQG: beta=0.0784223 Q2=4.79578 W=50.0835 z=0.577251
+QQG: beta=0.0784223 Q2=20.8895 W=50.0835 z=0.577251
+QQG: beta=0.0784223 Q2=20.8895 W=54.4199 z=0.577251
+QQG: beta=0.0784223 Q2=20.8895 W=54.4199 z=0.276278
+QQG: beta=0.0846082 Q2=27.2595 W=53.433 z=0.293647
+QQG: beta=0.222549 Q2=27.2595 W=53.433 z=0.293647
+QQG: beta=0.222549 Q2=78.4715 W=53.433 z=0.293647
+QQG: beta=0.222549 Q2=78.4715 W=57.452 z=0.293647
+QQG: beta=0.222549 Q2=78.4715 W=57.452 z=0.327086
+QQG: beta=0.135951 Q2=13.7919 W=60.3506 z=0.22811
+QQG: beta=0.13639 Q2=13.7919 W=60.3506 z=0.22811
+QQG: beta=0.13639 Q2=13.2623 W=60.3506 z=0.22811
+QQG: beta=0.13639 Q2=13.2623 W=30.9 z=0.22811
+QQG: beta=0.13639 Q2=13.2623 W=30.9 z=0.330766
+QQG: beta=0.120947 Q2=9.78392 W=36.6585 z=0.300635
+QQG: beta=0.0838339 Q2=9.78392 W=36.6585 z=0.300635
+QQG: beta=0.0838339 Q2=3.83787 W=36.6585 z=0.300635
+QQG: beta=0.0838339 Q2=3.83787 W=29.2146 z=0.300635
+QQG: beta=0.0838339 Q2=3.83787 W=29.2146 z=0.302915
+QQG: beta=0.099441 Q2=4.99811 W=12.6111 z=0.349157
+Sartre for InclusiveDiffraction is initialized.
+
+Calculating cross sections over the given kinematic range...
+(This may take while, use your radical freedom and do other things.)
+ The QQ cross section is: 2493.65 nb. (1/2)
+The QQG cross section is: 91.556 nb. (2/2)
+Total Cross Section: 2585.21 nb
+
+Run Settings:
+                     userInt	11
+                  userDouble	0
+                  userString	
+                           A	107
+               vectorMesonId	443
+                 dipoleModel	bSat
+     dipoleModelParameterSet	STU
+                tableSetType	total_and_coherent
+                       Q2min	1
+                       Q2max	-11
+                        Wmin	20
+                        Wmax	-10.0499
+                     xpomMin	1e-08
+                     xpomMax	1
+                     betamin	0
+                     betamax	1
+                        zmin	0
+                        zmax	1
+                     verbose	true
+                verboseLevel	2
+                    rootfile	eAg_bSat_X_5M_b.root
+                        seed	2011987
+                         UPC	false
+                        UPCA	1
+    inclusiveDiffractionMode	true
+useInclusiveCrossSectionTables	true
+                 eBeamEnergy	9
+                 hBeamEnergy	115
+              numberOfEvents	5000000
+                 timesToShow	100
+     correctForRealAmplitude	true
+           correctSkewedness	true
+        enableNuclearBreakup	false
+  maxLambdaUsedInCorrections	0.65
+  maxNuclearExcitationEnergy	3
+             applyPhotonFlux	true
+
+ROOT file is 'eAg_bSat_X_5M_b.root'.
+eic-smear compatible output file is 'eAg_bSat_X_5M_b.out'.
+settings->electronBeamEnergy() = 9
+settings->hadronBeamEnergy() = 115
+s = 4140
+sartre_0_0=[0]
+sartre_0_1=[0, 0, 0]
+sartre_0_2=[0, 0, 0, 0, 0]
+sartre_0_3=[0.956374, 1.09018, 0, 0, 0, 0, 0]
+sartre_0_4=[2.37584, 2.51799, 2.71034, 0, 0, 0, 0]
+sartre_0_5=[0]
+sartre_1_1=[0]
+sartre_1_2=[0, 0, 0]
+sartre_1_3=[0, 0, 0, 0, 0]
+sartre_1_4=[2.72851, 2.91819, 0, 0, 0, 0]
+sartre_1_5=[0]
+sartre_2_2=[0]
+sartre_2_3=[0, 0, 0]
+sartre_2_4=[0, 0, 0, 0, 0]
+sartre_2_5=[0]
+sartre_3_3=[0]
+sartre_3_4=[0, 0, 0]
+Generating 5000000 events.
+
+evt = 0           Q2 = 3.373         x = 2.179e-03      R = 0.001
+                   W = 39.314        y = 0.374
+                   t = -0.014     xpom = 1.152e-02
+                 pol = T          diff = coherent
+                beta = 0.189         z = 0.963   
+                  MX = 3.757   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      1.156    0.881    -5.541     5.728    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -1.156   -0.881    -3.459     3.272       -1.836 
+   4  1000471070   Ag(107)         1    1     -      -     -      0.072    0.095   113.671   113.675        0.938 
+   5           1   d               2    3     -      -     -     -0.923   -1.597    -2.980     3.504    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.305    0.621     0.846     1.093    4.008e-03 
+   7         111   pi0             2    5     6     12    13     -0.441   -1.041    -2.278     2.546        0.135 
+   8        -213   rho-            2    5     6     10    11     -0.231   -0.457    -0.359     1.126        0.937 
+   9         211   pi+             1    5     6      -     -     -0.556    0.523     0.503     0.924        0.140 
+  10        -211   pi-             1    8     -      -     -     -0.007    0.076    -0.492     0.518        0.140 
+  11         111   pi0             2    8     -     14    15     -0.224   -0.533     0.134     0.609        0.135 
+  12          22   gamma           1    7     -      -     -     -0.055   -0.238    -0.576     0.626            0 
+  13          22   gamma           1    7     -      -     -     -0.385   -0.803    -1.702     1.921            0 
+  14          22   gamma           1   11     -      -     -     -0.132   -0.444     0.082     0.471            0 
+  15          22   gamma           1   11     -      -     -     -0.092   -0.089     0.052     0.138            0 
+
+evt = 1           Q2 = 1.240         x = 8.021e-04      R = 0.002
+                   W = 39.314        y = 0.373
+                   t = -0.003     xpom = 4.243e-03
+                 pol = T          diff = coherent
+                beta = 0.189         z = 0.963   
+                  MX = 2.285   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -     -0.490   -0.733    -5.605     5.674    5.110e-04 
+   3          22   gamma           2    0     -      5     6      0.490    0.733    -3.395     3.326       -1.114 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.048   -0.032   114.508   114.512        0.938 
+   5           1   d               2    3     -      -     -      0.646    1.147    -3.104     3.371    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.108   -0.382     0.196     0.443    4.008e-03 
+   7         113   rho0            2    5     6      9    10      0.222    0.922    -2.588     2.851        0.730 
+   8         113   rho0            2    5     6     11    12      0.316   -0.157    -0.320     0.963        0.837 
+   9         211   pi+             1    7     -      -     -      0.449    0.726    -1.819     2.014        0.140 
+  10        -211   pi-             1    7     -      -     -     -0.227    0.197    -0.769     0.837        0.140 
+  11         211   pi+             1    8     -      -     -      0.006    0.217     0.127     0.288        0.140 
+  12        -211   pi-             1    8     -      -     -      0.310   -0.375    -0.447     0.675        0.140 
+
+evt = 2           Q2 = 1.240         x = 4.124e-04      R = 0.002
+                   W = 54.832        y = 0.726
+                   t = -0.020     xpom = 2.181e-03
+                 pol = T          diff = coherent
+                beta = 0.189         z = 0.963   
+                  MX = 2.337   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      0.389   -0.433    -2.429     2.498    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -0.389    0.433    -6.571     6.502       -1.114 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.105    0.094   114.745   114.749        0.938 
+   5           1   d               2    3     -      -     -      0.137    0.170    -6.295     6.299    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.421    0.169    -0.025     0.454    4.008e-03 
+   7        -211   pi-             1    5     6      -     -     -0.050   -0.306    -5.476     5.486        0.140 
+   8         213   rho+            2    5     6      9    10     -0.234    0.645    -0.845     1.267        0.648 
+   9         211   pi+             1    8     -      -     -     -0.060    0.663    -0.455     0.819        0.140 
+  10         111   pi0             2    8     -     11    12     -0.175   -0.018    -0.390     0.448        0.135 
+  11          22   gamma           1   10     -      -     -     -0.117   -0.061    -0.326     0.352            0 
+  12          22   gamma           1   10     -      -     -     -0.058    0.043    -0.063     0.096            0 
+
+evt = 3           Q2 = 4.998         x = 3.063e-02      R = 0.000
+                   W = 12.611        y = 0.039
+                   t = -0.094     xpom = 2.637e-01
+                 pol = T          diff = coherent
+                beta = 0.116         z = 0.349   
+                  MX = 3.166   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      1.078   -1.908    -8.506     8.784    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -1.078    1.908    -0.494     0.216       -2.236 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.267    0.151    84.673    84.679        0.938 
+   5           1   d               2    3     -      7     -     -2.008    0.050     3.219     3.794    4.008e-03 
+   7          -1   d_bar           2    3     -      7     -      0.441   -0.263     7.023     7.041    4.008e-03 
+   0          21   g               2    5     6      -     -      0.756    1.970    19.588    19.701   -1.590e-07 
+   8           1   d               2    5     5     11    16     -2.008    0.050     3.219     3.794    4.008e-03 
+   9          21   g               2    7     7     11    16      0.756    1.970    19.588    19.701   -1.590e-07 
+  10          -1   d_bar           2    6     6     11    16      0.441   -0.263     7.023     7.041    4.008e-03 
+  11        -211   pi-             1    8    10      -     -      0.094    0.031     0.451     0.483        0.140 
+  12         113   rho0            2    8    10     17    18     -0.933    0.673     2.736     3.047        0.689 
+  13         223   omega           2    8    10     19    21     -0.700   -0.124     2.542     2.755        0.789 
+  14         111   pi0             2    8    10     22    23     -0.233    0.154     3.461     3.474        0.135 
+  15         221   eta             2    8    10     24    26      0.832   -0.311     9.656     9.712        0.548 
+  16         211   pi+             1    8    10      -     -      0.129    1.333    10.983    11.065        0.140 
+  17         211   pi+             1   12     -      -     -     -0.549    0.731     1.987     2.192        0.140 
+  18        -211   pi-             1   12     -      -     -     -0.384   -0.058     0.749     0.855        0.140 
+  19         211   pi+             1   13     -      -     -      0.041   -0.116     0.812     0.833        0.140 
+  20        -211   pi-             1   13     -      -     -     -0.344   -0.081     0.558     0.675        0.140 
+  21         111   pi0             2   13     -     27    28     -0.396    0.073     1.172     1.246        0.135 
+  22          22   gamma           1   14     -      -     -     -0.156    0.161     2.175     2.187            0 
+  23          22   gamma           1   14     -      -     -     -0.078   -0.008     1.286     1.288            0 
+  24         111   pi0             2   15     -     29    30      0.465   -0.176     5.074     5.100        0.135 
+  25         111   pi0             2   15     -     31    32      0.053    0.003     1.807     1.812        0.135 
+  26         111   pi0             2   15     -     33    34      0.313   -0.138     2.776     2.800        0.135 
+  27          22   gamma           1   21     -      -     -     -0.145   -0.005     0.594     0.612            0 
+  28          22   gamma           1   21     -      -     -     -0.252    0.079     0.577     0.635            0 
+  29          22   gamma           1   24     -      -     -      0.463   -0.190     4.972     4.997            0 
+  30          22   gamma           1   24     -      -     -      0.003    0.014     0.102     0.103            0 
+  31          22   gamma           1   25     -      -     -     -0.038    0.029     0.789     0.791            0 
+  32          22   gamma           1   25     -      -     -      0.091   -0.026     1.017     1.022            0 
+  33          22   gamma           1   26     -      -     -      0.269   -0.066     2.323     2.339            0 
+  34          22   gamma           1   26     -      -     -      0.044   -0.072     0.453     0.460            0 
+
+evt = 4           Q2 = 1.240         x = 4.124e-04      R = 0.001
+                   W = 54.832        y = 0.726
+                   t = -0.001     xpom = 2.181e-03
+                 pol = T          diff = coherent
+                beta = 0.189         z = 0.988   
+                  MX = 2.299   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      0.259    0.522    -2.429     2.498    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -0.259   -0.522    -6.571     6.502       -1.114 
+   4  1000471070   Ag(107)         1    1     -      -     -      0.033    0.016   114.745   114.749        0.938 
+   5           1   d               2    3     -      -     -     -0.053   -0.619    -6.443     6.473    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.239    0.081     0.122     0.281    4.008e-03 
+   7        -211   pi-             1    5     6      -     -      0.083    0.123    -3.221     3.227        0.140 
+   8         211   pi+             1    5     6      -     -     -0.243   -0.801    -3.170     3.281        0.140 
+   9         111   pi0             2    5     6     10    11     -0.132    0.140     0.070     0.245        0.135 
+  10          22   gamma           1    9     -      -     -     -0.140    0.153     0.039     0.211            0 
+  11          22   gamma           1    9     -      -     -      0.008   -0.013     0.031     0.034            0 
+
+evt = 5           Q2 = 1.238         x = 4.094e-04      R = 0.001
+                   W = 54.982        y = 0.730
+                   t = -0.001     xpom = 2.177e-03
+                 pol = T          diff = coherent
+                beta = 0.188         z = 0.981   
+                  MX = 2.318   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      0.400   -0.417    -2.393     2.462    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -0.400    0.417    -6.607     6.538       -1.113 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.018    0.017   114.746   114.750        0.938 
+   5           1   d               2    3     -      -     -     -0.577    0.147    -6.433     6.460    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -      0.195    0.253     0.076     0.328    4.008e-03 
+   7         311   K0              2    5     6     10    10     -0.242    0.494    -3.363     3.444        0.498 
+   8        -321   K-              1    5     6      -     -      0.256   -0.083    -0.688     0.889        0.494 
+   9         213   rho+            2    5     6     11    12     -0.396   -0.011    -2.305     2.456        0.749 
+  10         130   K_L0            1    7     7      -     -     -0.242    0.494    -3.363     3.444        0.498 
+  11         211   pi+             1    9     -      -     -      0.175   -0.111    -0.622     0.670        0.140 
+  12         111   pi0             2    9     -     13    14     -0.571    0.100    -1.684     1.786        0.135 
+  13          22   gamma           1   12     -      -     -     -0.437    0.025    -1.151     1.231            0 
+  14          22   gamma           1   12     -      -     -     -0.135    0.075    -0.533     0.555            0 
+
+evt = 6           Q2 = 1.238         x = 4.094e-04      R = 0.007
+                   W = 54.982        y = 0.730
+                   t = -0.011     xpom = 1.213e-03
+                 pol = T          diff = coherent
+                beta = 0.338         z = 0.981   
+                  MX = 1.520   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      0.293    0.498    -2.393     2.462    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -0.293   -0.498    -6.607     6.538       -1.113 
+   4  1000471070   Ag(107)         1    1     -      -     -      0.091    0.054   114.857   114.861        0.938 
+   5           1   d               2    3     -      -     -     -0.526   -0.686    -6.417     6.475    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -      0.142    0.135    -0.050     0.202    4.008e-03 
+   7        -211   pi-             1    5     6      -     -      0.055   -0.390    -4.394     4.413        0.140 
+   8         213   rho+            2    5     6      9    10     -0.439   -0.161    -2.074     2.264        0.779 
+   9         211   pi+             1    8     -      -     -      0.162   -0.099    -0.277     0.364        0.140 
+  10         111   pi0             2    8     -     11    12     -0.601   -0.062    -1.796     1.900        0.135 
+  11          22   gamma           1   10     -      -     -     -0.272   -0.084    -0.949     0.991            0 
+  12          22   gamma           1   10     -      -     -     -0.329    0.022    -0.847     0.909            0 
+
+evt = 7           Q2 = 2.193         x = 7.250e-04      R = 0.005
+                   W = 54.982        y = 0.731
+                   t = -0.020     xpom = 2.147e-03
+                 pol = T          diff = coherent
+                beta = 0.338         z = 0.981   
+                  MX = 2.116   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      0.420   -0.644    -2.364     2.486    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -0.420    0.644    -6.636     6.514       -1.481 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.117    0.076   114.749   114.753        0.938 
+   5           2   u               2    3     -      -     -     -0.477    0.784    -6.416     6.481    4.008e-03 
+   6          -2   u_bar           2    3     -      -     -      0.174   -0.217     0.027     0.279    4.008e-03 
+   7         223   omega           2    5     6      9    11     -0.499    0.976    -6.001     6.149        0.777 
+   8         111   pi0             2    5     6     12    13      0.196   -0.408    -0.388     0.611        0.135 
+   9         211   pi+             1    7     -      -     -     -0.020   -0.029    -0.382     0.409        0.140 
+  10        -211   pi-             1    7     -      -     -     -0.123    0.390    -2.686     2.720        0.140 
+  11         111   pi0             2    7     -     14    15     -0.356    0.615    -2.933     3.020        0.135 
+  12          22   gamma           1    8     -      -     -      0.184   -0.355    -0.272     0.483            0 
+  13          22   gamma           1    8     -      -     -      0.013   -0.053    -0.115     0.128            0 
+  14          22   gamma           1   11     -      -     -     -0.008    0.015    -0.218     0.219            0 
+  15          22   gamma           1   11     -      -     -     -0.347    0.600    -2.715     2.802            0 
+
+evt = 8           Q2 = 2.193         x = 1.179e-03      R = 0.009
+                   W = 43.116        y = 0.449
+                   t = -0.058     xpom = 3.491e-03
+                 pol = T          diff = coherent
+                beta = 0.338         z = 0.981   
+                  MX = 2.135   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -      1.044   -0.343    -4.895     5.017    5.110e-04 
+   3          22   gamma           2    0     -      5     6     -1.044    0.343    -4.105     3.983       -1.481 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.075    0.228   114.595   114.599        0.938 
+   5           1   d               2    3     -      -     -     -0.686    0.238    -3.933     4.000    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.283   -0.123     0.230     0.385    4.008e-03 
+   7        -213   rho-            2    5     6      9    10     -0.281    0.109    -3.550     3.666        0.862 
+   8         211   pi+             1    5     6      -     -     -0.688    0.007    -0.153     0.719        0.140 
+   9        -211   pi-             1    7     -      -     -     -0.072   -0.336    -1.034     1.098        0.140 
+  10         111   pi0             2    7     -     11    12     -0.209    0.445    -2.517     2.568        0.135 
+  11          22   gamma           1   10     -      -     -     -0.027    0.091    -0.272     0.288            0 
+  12          22   gamma           1   10     -      -     -     -0.182    0.354    -2.245     2.280            0 
+
+evt = 9           Q2 = 2.193         x = 1.179e-03      R = 0.016
+                   W = 43.116        y = 0.449
+                   t = -0.008     xpom = 3.491e-03
+                 pol = T          diff = coherent
+                beta = 0.338         z = 0.937   
+                  MX = 2.037   
+
+   #          id   name       status    parents     daughters        px       py        pz         E            m
+   0          11   e-              4    -     -      2     3      0.000    0.000    -9.000     9.000    5.110e-04 
+   1  1000471070   Ag(107)         4    -     -      4     -      0.000    0.000   114.996   115.000        0.938 
+   2          11   e-              1    0     -      -     -     -0.450   -1.002    -4.895     5.017    5.110e-04 
+   3          22   gamma           2    0     -      5     6      0.450    1.002    -4.105     3.983       -1.481 
+   4  1000471070   Ag(107)         1    1     -      -     -     -0.079   -0.036   114.595   114.599        0.938 
+   5           1   d               2    3     -      -     -      0.794    1.366    -3.626     3.955    4.008e-03 
+   6          -1   d_bar           2    3     -      -     -     -0.265   -0.328    -0.078     0.429    4.008e-03 
+   7         113   rho0            2    5     6      9    10      0.316    1.570    -2.769     3.280        0.725 
+   8         111   pi0             2    5     6     11    12      0.213   -0.532    -0.934     1.105        0.135 
+   9         211   pi+             1    7     -      -     -      0.499    0.858    -1.437     1.752        0.140 
+  10        -211   pi-             1    7     -      -     -     -0.183    0.713    -1.332     1.528        0.140 
+  11          22   gamma           1    8     -      -     -      0.054   -0.030    -0.089     0.109            0 
+  12          22   gamma           1    8     -      -     -      0.159   -0.502    -0.845     0.996            0 
+
+SartreInclusiveDiffraction::generateEvent(): failed to generate final state
+SartreInclusiveDiffraction::generateEvent(): failed to generate final state
+SartreInclusiveDiffraction::generateEvent(): failed to generate final state
+SartreInclusiveDiffraction::generateEvent(): failed to generate final state
+
+processed 5000000 events
+All events processed
+
+Calculating the total cross section on given interval.
+This may take a while, use your radical freedom to do something else...
+eAg_bSat_X_5M_b.root written.
+File 'eAg_bSat_X_5M_b.out' written.
+Total cross-section: 2585.208 nb
+Event summary: 5000000 events generated, 5366974 tried
+Total time used: 21 min 59 sec
+CPU Time/event: 0.000 seconds/event
